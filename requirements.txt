@@ -1,0 +1,6 @@
+textblob
+vaderSentiment
+scikit-learn
+sumy
+nltk
+numpy
