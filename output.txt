@@ -1,0 +1,99 @@
+﻿Initializing Employee Feedback NLP Pipeline...
+Loaded 10 messages.
+
+Extracting Global Topics...
+Top Topics: really team bug, new feel love, stressed q4 report
+
+--------------------------------------------------
+INDIVIDUAL MESSAGE ANALYSIS
+--------------------------------------------------
+
+Message 1:
+Original: "I love the new remote work policy! It gives me so much flexibility and I feel more productive."
+Sentiment Score: 0.80
+Stress Level: 0.00
+Keywords: gives, flexibility, feel
+Summary: I love the new remote work policy!
+HR Tags: ['Kudos', 'Policy Feedback']
+------------------------------
+
+Message 2:
+Original: "I'm feeling completely burnt out. The workload is unmanageable and I'm working weekends just to keep up."
+Sentiment Score: 0.13
+Stress Level: 0.40
+Keywords: feeling, completely, burnt
+Summary: The workload is unmanageable and I'm working weekends just to keep up.
+HR Tags: ['General Feedback']
+------------------------------
+
+Message 3:
+Original: "The recent team building event was fun, but I think we need more focus on technical training."
+Sentiment Score: 0.28
+Stress Level: 0.00
+Keywords: building, event, focus
+Summary: The recent team building event was fun, but I think we need more focus on technical training.
+HR Tags: ['L&D Opportunity']
+------------------------------
+
+Message 4:
+Original: "I am frustrated with the lack of communication from management regarding the new project timelines."
+Sentiment Score: -0.69
+Stress Level: 0.50
+Keywords: frustrated, lack, communication
+Summary: I am frustrated with the lack of communication from management regarding the new project timelines.
+HR Tags: ['Monitor Workload', 'Manager Intervention']
+------------------------------
+
+Message 5:
+Original: "My manager is very supportive, but the tools we are using are outdated and slow me down."
+Sentiment Score: 0.19
+Stress Level: 0.00
+Keywords: manager, outdated, slow
+Summary: My manager is very supportive, but the tools we are using are outdated and slow me down.
+HR Tags: ['General Feedback']
+------------------------------
+
+Message 6:
+Original: "I'm really happy with my growth opportunities here. The mentorship program is excellent."
+Sentiment Score: 0.92
+Stress Level: 0.00
+Keywords: happy, growth, excellent
+Summary: The mentorship program is excellent.
+HR Tags: ['Kudos']
+------------------------------
+
+Message 7:
+Original: "I feel undervalued. I've been putting in extra hours and no one seems to notice or care."
+Sentiment Score: 0.25
+Stress Level: 0.20
+Keywords: feel, extra, care
+Summary: I've been putting in extra hours and no one seems to notice or care.
+HR Tags: ['Compensation Review']
+------------------------------
+
+Message 8:
+Original: "The deadline for the Q4 report is impossible. I'm stressed and not sleeping well."
+Sentiment Score: -0.50
+Stress Level: 0.90
+Keywords: deadline, q4, impossible
+Summary: The deadline for the Q4 report is impossible.
+HR Tags: ['URGENT: Wellness Check']
+------------------------------
+
+Message 9:
+Original: "Great collaboration on the last sprint! The team really pulled together to solve that bug."
+Sentiment Score: 0.73
+Stress Level: 0.00
+Keywords: great, collaboration, bug
+Summary: The team really pulled together to solve that bug.
+HR Tags: ['Kudos']
+------------------------------
+
+Message 10:
+Original: "I'm concerned about the high turnover rate in our department. It's affecting morale."
+Sentiment Score: 0.00
+Stress Level: 0.00
+Keywords: concerned, department, affecting
+Summary: I'm concerned about the high turnover rate in our department.
+HR Tags: ['General Feedback']
+------------------------------
